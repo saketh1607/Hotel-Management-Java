@@ -1,3 +1,5 @@
+
+**Need Apache Netbeans to run the project**
 **Log-in**
 ![Screenshot 2024-07-03 072008](https://github.com/renboy1222/hrms/assets/152495332/2b792f63-c8e7-4c33-a907-f3d5883c698d)
 
@@ -18,5 +20,6 @@
 
 **Relational Schema**
 ![schema](https://github.com/renboy1222/hrms/assets/152495332/f46eca3b-b460-4559-8691-13bfcad1d1f7)
+
 
 
